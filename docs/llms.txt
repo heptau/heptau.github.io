@@ -1,0 +1,20 @@
+# Zbyněk Vanžura
+
+> PostgreSQL specialist, software developer, and AI tinkerer based in Prague, Czech Republic.
+
+Personal site with background, open-source projects, and contact/invoicing details.
+
+## Pages
+
+- [About](https://www.80.cz/): Background, social profiles, and contact links.
+- [Projects](https://www.80.cz/projects/): Open-source PostgreSQL tools and other side projects.
+- [Contact](https://www.80.cz/kontakt/): Contact details and Czech business/invoicing information.
+
+## Elsewhere
+
+- [Port 80](https://port.80.cz/): Blog about PostgreSQL, software development, and AI.
+- [PostgreSQL tips](https://t.me/postgresqltips): Telegram channel with PostgreSQL tips and tricks.
+
+## Full text
+
+- [llms-full.txt](https://www.80.cz/llms-full.txt): Full text of all pages on this site in one file.

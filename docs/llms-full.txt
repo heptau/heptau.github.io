@@ -1,0 +1,151 @@
+# Zbyněk Vanžura
+
+> PostgreSQL specialist, software developer, and AI tinkerer based in Prague, Czech Republic.
+
+This file contains the full text content of every page on www.80.cz, for
+use by LLMs and other tools. See llms.txt for a short index instead.
+
+---
+
+## About — https://www.80.cz/
+
+Zbyněk Vanžura
+PostgreSQL Specialist · Software Developer · AI Tinkerer
+Prague, Czech Republic
+
+### About
+
+More than 20 years of experience in database architecture, software
+development, and, more recently, AI-assisted engineering, with a
+particular focus on PostgreSQL.
+
+Builds open-source developer tools that make working with PostgreSQL
+simpler — from an instant JSON-RPC API layer to schema exporters, dump
+splitters, and a native SQL formatter, mostly written in Go and Python.
+
+Writes about databases, software, and the occasional detour on the blog
+Port 80, and shares quick PostgreSQL tips on Telegram — online as heptau.
+
+### Find me online
+
+- X (Twitter) — @heptau — https://x.com/heptau
+- LinkedIn — zbynek-vanzura — https://www.linkedin.com/in/zbynek-vanzura
+- GitHub — @heptau — https://github.com/heptau
+- Telegram — @heptau — https://t.me/heptau
+
+### Contact
+
+- Email — zbynek.vanzura@80.cz
+- Phone — +420 910 125 974
+- Telegram — @zbynek_vanzura — https://t.me/zbynek_vanzura
+
+### Elsewhere
+
+- Port 80 (blog) — https://port.80.cz
+- PostgreSQL tips (Telegram channel) — https://t.me/postgresqltips
+- Projects & tools — https://www.80.cz/projects/
+
+---
+
+## Projects — https://www.80.cz/projects/
+
+Zbyněk Vanžura — projects and tools
+
+- Port 80 — https://port.80.cz
+  Zbyněk Vanžura's blog — practical insights from more than 20 years of
+  experience, mostly about PostgreSQL, software development, and AI, but
+  occasionally also about other topics worth reflecting on.
+
+- PostgreSQL tips — https://t.me/postgresqltips
+  Telegram channel with simple and effective PostgreSQL tips and tricks.
+  @postgresqltips
+
+### CLI Tools
+
+- pgArachne — https://www.pgarachne.com
+  Instant PostgreSQL API gateway — turn your database into a secure
+  JSON-RPC API with zero boilerplate. Native MCP support for AI clients
+  (Claude, Cursor), real-time SSE notifications, and database-native
+  auth with RLS.
+
+- pgDBML — https://pg_dbml.80.cz
+  Export PostgreSQL schemas to DBML format for diagramming. Connect
+  directly to a database or parse pg_dump output. Generates clean DBML
+  ready for dbdiagram.io, Mermaid, or other visualization tools.
+
+- pgAtropos — https://pg_atropos.80.cz
+  Split PostgreSQL dumps into individual schema files for Git
+  versioning. Creates separate files per object — tables, functions,
+  indexes — ready for version control and code review.
+
+- pgProcrustes — https://pg_procrustes.80.cz
+  PostgreSQL SQL formatter in Go. Fast, flexible formatter driven by the
+  native PostgreSQL parser. Supports keyword casing, data type
+  formatting, layout, and clause breaking.
+
+- TypoLima — https://typolima.80.cz
+  Conservative typographic fixer for HTML, PHP, Hugo, and text files.
+  Fixes quotes, dashes, non-breaking spaces, ellipses for 33+ languages.
+  Only touches text content — never code, tags, or template variables.
+
+### GUI Apps
+
+- OmniDB — https://www.omnidb.net
+  Open-source database management tool — lightweight, fast, and
+  collaborative. Web-based GUI for PostgreSQL with schema browser,
+  query editor, data explorer, and multi-user support.
+
+- pgAdmin III — https://pgadmin3.80.cz
+  GUI administration tool for PostgreSQL — missing macOS binaries.
+  Available via pre-compiled app or Homebrew installation.
+
+- SQLFluff UI — https://sqlfluffui.80.cz
+  Cross-platform desktop app for configuring SQLFluff visually. Set
+  dialect, indentation, and layout rules — see formatted SQL live. Built
+  with Python and PySide6, no command-line knowledge required.
+
+### Web Apps
+
+- Compound Interest Calculator — https://compound-interest-calculator.80.cz
+  Online compound interest calculator with history tracking. Calculate
+  investment growth from initial deposit, contributions, rate, and
+  time. PWA installable, works offline, includes calculation history.
+
+- Odorik Dash — https://odorik-dash.80.cz
+  Dashboard for monitoring Odorik VoIP credit balance and usage.
+  Real-time credit tracking, call history overview, and service status
+  for Odorik.cz customers.
+
+- Odorik — https://odorik.80.cz
+  Web app for managing Odorik VoIP services. Quick contacts dialer,
+  call history with recordings, SMS composer with character counter,
+  and account settings.
+
+- QR Generator — https://qr-generator.80.cz
+  QR code generator for text, URLs, Wi-Fi, geolocation, email, phone,
+  SMS, SEPA payments, and Czech QR payments. Customizable colors and
+  error correction with PNG download.
+
+---
+
+## Kontakt — https://www.80.cz/kontakt/
+
+(This page is in Czech, as published on the site.)
+
+### Kontakt
+
+- Email — zbynek.vanzura@80.cz
+- Telefon — +420 910 125 974
+- Telegram — @zbynek_vanzura — https://t.me/zbynek_vanzura
+
+### Fakturační údaje
+
+- Jméno a příjmení: Zbyněk Vanžura
+- IČO: 44361751
+- Sídlo / místo podnikání: Hurbanova 1305/11, 142 00 Praha 4 – Krč
+- Zápis: Fyzická osoba podnikající na základě živnostenského oprávnění,
+  zapsaná v živnostenském rejstříku vedeném Úřadem městské části Praha 4
+  (nezapsán v obchodním rejstříku). Podnikám od 17. 8. 1992.
+- DPH: Nejsem plátce DPH.
+- Bankovní spojení: Číslo účtu 2300354125/2010, IBAN
+  CZ32 2010 0000 0023 0035 4125, BIC/SWIFT FIOBCZPPXXX

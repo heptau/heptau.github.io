@@ -106,6 +106,10 @@ Zbyněk Vanžura — projects and tools
 
 ### Web Apps
 
+- WebPhos — https://webphos.80.cz
+  Free online image editor built on HTML5. Edit and adjust images, apply
+  effects, all in the browser without installing anything.
+
 - Compound Interest Calculator — https://compound-interest-calculator.80.cz
   Online compound interest calculator with history tracking. Calculate
   investment growth from initial deposit, contributions, rate, and

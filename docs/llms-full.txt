@@ -106,7 +106,7 @@ Zbyněk Vanžura — projects and tools
 
 ### Web Apps
 
-- WebPhos — https://webphos.80.cz
+- Lumifex — https://lumifex.80.cz
   Free online image editor built on HTML5. Edit and adjust images, apply
   effects, all in the browser without installing anything.
 

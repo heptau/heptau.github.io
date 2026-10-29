@@ -60,6 +60,10 @@ Zbyněk Vanžura — projects and tools
   Telegram channel with simple and effective PostgreSQL tips and tricks.
   @postgresqltips
 
+- Sledovna.cz — https://www.sledovna.cz
+  In Czech. Follow the work of the Chamber of Deputies — new bills and
+  votes with AI commentary.
+
 ### CLI Tools
 
 - pgArachne — https://www.pgarachne.com

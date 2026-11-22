@@ -134,6 +134,9 @@ Zbyněk Vanžura — projects and tools
   SMS, SEPA payments, and Czech QR payments. Customizable colors and
   error correction with PNG download.
 
+- ISDOC Viewer — https://isdoc.80.cz
+  View ISDOC and ISDOCX invoices, check the signature and pay by QR code.
+
 ---
 
 ## Kontakt — https://www.80.cz/kontakt/
